@@ -199,9 +199,13 @@ highlight {
 <table align=center width=800px>
   <tr>
     <td>
+      <h3 align=center style="color:#800080;">This page is currently under construction. Please stay tuned!</h3>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <p align="justify" width="20%">
       <h2>Overview</h2>
-      <h3 align=center style="color:#800080;">This page is currently under construction. Please stay tuned!</h3>
       <b>LEGATO Gripper</b> is a hand-held gripper developed in <a href="https://ut-hcrl.github.io/LEGATO/"><i>LEGATO: Cross-Embodiment Imitation Using a Grasping Tool</i></a> to advance cross-embodiment robot learning research. Created by <a href="https://mingyoseo.com/">Mingyo Seo</a> and <a href="https://yuanshenli.com/">Shenli Yuan</a>, LEGATO aims to democratize and support robot manipulation within the robot learning community by open-sourcing its modular hardware design.
       </p>
     </td>
