@@ -768,8 +768,9 @@ Here is the list of 3D-printed parts required to assemble one set of shared grip
             <img src="./src/figure/assembly/spot.png" style="width:258;">
           </a>
         </td>
-      </tbody>
-    </table>
+      </tr>
+    </tbody>
+  </table>
     </td>
   </tr>
 </table>
