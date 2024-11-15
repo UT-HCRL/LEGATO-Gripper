@@ -286,7 +286,7 @@ highlight {
         <td>
           <img src="./src/figure/off-the-shelf/t265.png" style="width:100;">
         </td>
-        <td align="left">Realsense T265 <br>
+        <td align="left">RealSense T265 <br>
           (currently discontinued, <a href="https://www.xvisiotech.com/product/seersense-xr50/">alternative</a>)</td>
         <td>1</td>
         <td>>300</td>
@@ -734,7 +734,7 @@ Here is the list of 3D-printed parts required to assemble one set of shared grip
     <tbody>
       <tr>
         <td align="center" valign="middle">
-          <video muted autoplay loop width="598">
+          <video muted controls autoplay loop width="598">
             <source src="./src/video/assembly.mp4"  type="video/mp4">
           </video>
         </td>
