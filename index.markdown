@@ -199,11 +199,6 @@ highlight {
 <table align=center width=800px>
   <tr>
     <td>
-      <h3 align=center style="color:#800080;">This page is currently under construction. Please stay tuned!</h3>
-    </td>
-  </tr>
-  <tr>
-    <td>
       <p align="justify" width="20%">
       <h2>Overview</h2>
       <b>LEGATO Gripper</b> is a hand-held gripper developed in <a href="https://ut-hcrl.github.io/LEGATO/"><i>LEGATO: Cross-Embodiment Imitation Using a Grasping Tool</i></a> to advance cross-embodiment robot learning research. Created by <a href="https://mingyoseo.com/">Mingyo Seo</a> and <a href="https://yuanshenli.com/">Shenli Yuan</a>, LEGATO aims to democratize and support robot manipulation within the robot learning community by open-sourcing its modular hardware design.
@@ -502,7 +497,50 @@ highlight {
     <!-- Add more rows as needed -->
   </table>
 
-  </td>
+  Other than the above components, the follow materials, 3D-printing filaments, and friction tapes are requred to assembly one set of the Gripper. The below table is the example of the items, but any compatible alternative can be used.
+  <tr>
+    <td>
+      <table class="bom_table" width=800px>
+        <thead>
+          <tr>
+            <th align="center">Item</th>
+            <th align="center">Cost</th>
+            <th align="center">Link</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td align="left">PLA 3D-printing filment</td>
+            <td>19.99</td>
+            <td>
+              <a href="https://us.store.bambulab.com/collections/bambu-lab-3d-printer-filament/products/pla-basic-filament?variant=40988815556744">
+                <i class="fa-solid fa-link"></i>
+              </a>
+            </td>
+          </tr>
+          <tr>
+            <td align="left">TPU 95A 3D-printing filment</td>
+            <td>41.99</td>
+            <td>
+              <a href="https://us.store.bambulab.com/products/tpu-95a-hf?variant=41469410574472&gad_source=1&gbraid=0AAAAAo9so7Mnq9dBoYJCZT9qhxX--nFPk&gclid=Cj0KCQiA_9u5BhCUARIsABbMSPs7GjAXj9b3UcQHJ1c3Kl4N9_0P4JgJ0F0yi0IOceZZ8hs0rVbEUeYaAkWEEALw_wcB">
+                <i class="fa-solid fa-link"></i>
+              </a>
+            </td>
+          </tr>
+          <tr>
+            <td align="left">Friction tape</td>
+            <td>49.00</td>
+            <td>
+              <a href="https://www.amazon.com/3M-Gripping-Material-TB641-Black/dp/B0093CQPW8/ref=rvi_d_sccl_2/139-6753142-7229065?pd_rd_w=2uS3u&content-id=amzn1.sym.f5690a4d-f2bb-45d9-9d1b-736fee412437&pf_rd_p=f5690a4d-f2bb-45d9-9d1b-736fee412437&pf_rd_r=JKBXYDN7ZCPMKKHYD209&pd_rd_wg=Os9qF&pd_rd_r=c9375c68-65f9-44d2-8931-4029d14647d8&pd_rd_i=B0093CQPW8&psc=1">
+                <i class="fa-solid fa-link"></i>
+              </a>
+            </td>
+          </tr>
+        </tbody>
+        </table>
+    </td>
+  </tr>
+    </td>
   </tr>
 </table>
 
@@ -681,33 +719,60 @@ Here is the list of 3D-printed parts required to assemble one set of shared grip
 <table align=center width=800px>
   <tr>
     <td>
-
-<h2 id="assembly">Assembly Instruction</h2>
-
-Follow the video instructions below to assemble the shareable gripper components. Before assembly, use an appropriate press machine, such as 
-<a href="https://www.amazon.com/3DZWMAN-Vertical-Pressing-Machine-Printing/dp/B0BBSGG2S2/ref=sr_1_1_sspa?dib=eyJ2IjoiMSJ9.xwi5Z8Ac4o3C40kX2ATKJwKk8eZqPJHUw5pG6q7IVynCw7m4Z9II0Yw5ikXZk_0J-L52c3eaPi4GRs3z4IvAQMZc_wPrsfLugLdTQ4cVNZFyAKIVB0zg7ocLbHI-CUrX0vZlf7S26PNKQyEf-MfhjPZOZKIcOYGnmbMcErEFxARiBBNik6BFuaAgT36ClVihWKKAkYPFNyHZ2yHCe8kG__21kJIc-RTuV_TYTJRv-aU.vILq6JWPMIB46ILT9h3FteaFW0lgeJ6shOrOTYJAYQk&dib_tag=se&keywords=heat+insert+tool&qid=1731134766&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1
-">
-  <i class="fa-solid fa-link"></i>
-</a>, 
-to heat-set inserts into the <i>Base</i> part.
+      <h2 id="assembly">Assembly Instruction</h2>
+      Follow the video instructions below to assemble the shareable gripper components. Before assembly, use an appropriate press machine, such as 
+      <a href="https://www.amazon.com/3DZWMAN-Vertical-Pressing-Machine-Printing/dp/B0BBSGG2S2/ref=sr_1_1_sspa?dib=eyJ2IjoiMSJ9.xwi5Z8Ac4o3C40kX2ATKJwKk8eZqPJHUw5pG6q7IVynCw7m4Z9II0Yw5ikXZk_0J-L52c3eaPi4GRs3z4IvAQMZc_wPrsfLugLdTQ4cVNZFyAKIVB0zg7ocLbHI-CUrX0vZlf7S26PNKQyEf-MfhjPZOZKIcOYGnmbMcErEFxARiBBNik6BFuaAgT36ClVihWKKAkYPFNyHZ2yHCe8kG__21kJIc-RTuV_TYTJRv-aU.vILq6JWPMIB46ILT9h3FteaFW0lgeJ6shOrOTYJAYQk&dib_tag=se&keywords=heat+insert+tool&qid=1731134766&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1
+      ">
+        <i class="fa-solid fa-link"></i>
+      </a>, 
+      to heat-set inserts into the <i>Base</i> part.
     </td>
   </tr>
   <tr>
     <td>
-<table border="0" cellspacing="10" cellpadding="0" align="center">
-  <tbody>
-    <tr>
-      <td align="center" valign="middle">
-        <video muted autoplay loop width="598">
-          <source src="./src/video/assembly.mp4"  type="video/mp4">
-        </video>
-      </td>
+  <table border="0" cellspacing="10" cellpadding="0" align="center">
+    <tbody>
+      <tr>
+        <td align="center" valign="middle">
+          <video muted autoplay loop width="598">
+            <source src="./src/video/assembly.mp4"  type="video/mp4">
+          </video>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      For use, you can assemble the sharabe gripper with the corresponding handles. Currently, we provide three types of handles: one for a human demonstrator, one for the Franka Emika <i>Panda</i>, and one for the Boston Dynamics <i>Spot</i>. The assembly instructions are shown in the following figures.
+    </td>
+  </tr>
+  <tr>
+    <td>
+  <table border="0" cellspacing="10" cellpadding="0" align="center">
+    <tbody>
+      <tr>
+        <td align="center" valign="middle">
+          <a href="./src/figure/assembly/human.png"> 
+            <img src="./src/figure/assembly/human.png" style="width:258;">
+          </a>
+        </td>
+        <td align="center" valign="middle">
+          <a href="./src/figure/assembly/panda.png"> 
+            <img src="./src/figure/assembly/panda.png" style="width:258;">
+          </a>
+        </td>
+        <td align="center" valign="middle">
+          <a href="./src/figure/assembly/spot.png"> 
+            <img src="./src/figure/assembly/spot.png" style="width:258;">
+          </a>
+        </td>
+      </tbody>
+    </table>
+    </td>
     </tr>
-  </tbody>
-</table>
-
-</td>
-</tr>
+  </tr>
 </table>
 <hr>
 <table align=center width=800px>
