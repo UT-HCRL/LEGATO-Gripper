@@ -510,7 +510,7 @@ highlight {
         </thead>
         <tbody>
           <tr>
-            <td align="left">PLA 3D-printing filment</td>
+            <td>PLA 3D-printing filment</td>
             <td>19.99</td>
             <td>
               <a href="https://us.store.bambulab.com/collections/bambu-lab-3d-printer-filament/products/pla-basic-filament?variant=40988815556744">
@@ -519,7 +519,7 @@ highlight {
             </td>
           </tr>
           <tr>
-            <td align="left">TPU 95A 3D-printing filment</td>
+            <td>TPU 95A 3D-printing filment</td>
             <td>41.99</td>
             <td>
               <a href="https://us.store.bambulab.com/products/tpu-95a-hf?variant=41469410574472&gad_source=1&gbraid=0AAAAAo9so7Mnq9dBoYJCZT9qhxX--nFPk&gclid=Cj0KCQiA_9u5BhCUARIsABbMSPs7GjAXj9b3UcQHJ1c3Kl4N9_0P4JgJ0F0yi0IOceZZ8hs0rVbEUeYaAkWEEALw_wcB">
@@ -528,7 +528,7 @@ highlight {
             </td>
           </tr>
           <tr>
-            <td align="left">Friction tape</td>
+            <td>Friction tape</td>
             <td>49.00</td>
             <td>
               <a href="https://www.amazon.com/3M-Gripping-Material-TB641-Black/dp/B0093CQPW8/ref=rvi_d_sccl_2/139-6753142-7229065?pd_rd_w=2uS3u&content-id=amzn1.sym.f5690a4d-f2bb-45d9-9d1b-736fee412437&pf_rd_p=f5690a4d-f2bb-45d9-9d1b-736fee412437&pf_rd_r=JKBXYDN7ZCPMKKHYD209&pd_rd_wg=Os9qF&pd_rd_r=c9375c68-65f9-44d2-8931-4029d14647d8&pd_rd_i=B0093CQPW8&psc=1">
@@ -537,7 +537,7 @@ highlight {
             </td>
           </tr>
         </tbody>
-        </table>
+      </table>
     </td>
   </tr>
     </td>
@@ -771,7 +771,6 @@ Here is the list of 3D-printed parts required to assemble one set of shared grip
       </tbody>
     </table>
     </td>
-    </tr>
   </tr>
 </table>
 <hr>
