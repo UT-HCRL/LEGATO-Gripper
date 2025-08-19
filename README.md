@@ -67,10 +67,10 @@ LEGATO is released under the [MIT License](LICENSE). For questions, please conta
 ## Citing
 ```
 @misc{seo2024legato,
-    title={LEGATO: Cross-Embodiment Imitation Using a Grasping Tool},
+    title={{LEGATO}: Cross-Embodiment Imitation Using a Grasping Tool},
     author={Seo, Mingyo and Park, H. Andy and Yuan, Shenli and Zhu, Yuke and
           and Sentis, Luis},
-    year={2024}
+    year={2024},
     eprint={2411.03682},
     archivePrefix={arXiv},
     primaryClass={cs.RO}
